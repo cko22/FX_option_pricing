@@ -1,0 +1,19 @@
+2022-03-14 15:44:51,077 - findatapy.market.ioengine - INFO - Cache not existent for MarketDataRequest_818__abstract_curve_key-None__base_depos_currencies-EUR_GBP_AUD_NZD_USD_CAD_CHF_NOK_SEK_JPY__base_depos_tenor-ON_TN_SN_1W_2W_3W_1M_2M_3M_4M_6M_9M_1Y_2Y_3Y_5Y__category-fx-implied-vol__category_key-backtest_fx-implied-vol_bloomberg_daily_NYC__cut-NYC__data_engine-None__data_source-bloomberg__environment-backtest__expiry_date-NaT__fields-close__finish_date-2020-02-15 00:00:00__freeform_md_request-{}__freq-daily__freq_mult-1__fx_forwards_tenor-ON_TN_SN_1W_2W_3W_1M_2M_3M_4M_6M_9M_1Y_2Y_3Y_5Y__fx_vol_part-V_25R_10R_25B_10B__fx_vol_tenor-ON_1W_2W_3W_1M_2M_3M_4M_6M_9M_1Y_2Y_3Y_5Y__gran_freq-None__list_threads-1__old_tickers-EURUSDV1M__push_to_cache-True__resample-None__resample_how-last__split_request_chunks-0__start_date-2020-01-01 00:00:00__tickers-EURUSDV1M__trade_side-trade__vendor_fields-None__vendor_tickers-None_df in Redis: Error 61 connecting to 127.0.0.1:6379. Connection refused.
+2022-03-14 15:44:53,131 - findatapy.market.datavendorbbg - INFO - Request Bloomberg data
+2022-03-14 15:44:53,134 - findatapy.market.datavendorbbg - INFO - Starting Bloomberg session...
+2022-03-14 15:44:59,311 - findatapy.market.datavendorbbg - ERROR - Failed to start session.
+2022-03-14 15:44:59,313 - findatapy.market.datavendorbbg - INFO - Try opening Bloomberg session... try 0
+2022-03-14 15:44:59,316 - findatapy.market.datavendorbbg - INFO - Starting Bloomberg session...
+2022-03-14 15:45:05,338 - findatapy.market.datavendorbbg - ERROR - Failed to start session.
+2022-03-14 15:45:05,341 - findatapy.market.datavendorbbg - INFO - Try opening Bloomberg session... try 1
+2022-03-14 15:45:05,343 - findatapy.market.datavendorbbg - INFO - Starting Bloomberg session...
+2022-03-14 15:45:11,366 - findatapy.market.datavendorbbg - ERROR - Failed to start session.
+2022-03-14 15:45:11,369 - findatapy.market.datavendorbbg - INFO - Try opening Bloomberg session... try 2
+2022-03-14 15:45:11,375 - findatapy.market.datavendorbbg - INFO - Starting Bloomberg session...
+2022-03-14 15:45:17,397 - findatapy.market.datavendorbbg - ERROR - Failed to start session.
+2022-03-14 15:45:17,399 - findatapy.market.datavendorbbg - INFO - Try opening Bloomberg session... try 3
+2022-03-14 15:45:17,400 - findatapy.market.datavendorbbg - INFO - Starting Bloomberg session...
+2022-03-14 15:45:23,420 - findatapy.market.datavendorbbg - ERROR - Failed to start session.
+2022-03-14 15:45:23,422 - findatapy.market.datavendorbbg - INFO - Try opening Bloomberg session... try 4
+2022-03-14 15:45:23,423 - findatapy.market.datavendorbbg - INFO - Starting Bloomberg session...
+2022-03-14 15:45:29,456 - findatapy.market.datavendorbbg - ERROR - Failed to start session.
